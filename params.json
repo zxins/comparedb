@@ -1,0 +1,18 @@
+[
+  {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "username": "root",
+    "password": "zx3620382",
+    "database": "travel",
+    "alias": "别名1"
+  },
+  {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "username": "root",
+    "password": "zx3620382",
+    "database": "travel2",
+    "alias": "别名2"
+  }
+]
